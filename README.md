@@ -1,0 +1,2 @@
+# ParcialBiGD
+ Stadistic midterm BigData
